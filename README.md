@@ -1,0 +1,1 @@
+# Testing naive bayes on randomly generated data 
